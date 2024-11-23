@@ -1,4 +1,4 @@
-# 👋 Helo World, I'm Alessandro !
+# 👋 Hello World, I'm Alessandro !
 
 ## 💡Something About Me...
 Passionate about data, with a keen interest in automation and system optimization, I'm currently on the path to becoming a Data Scientist.
