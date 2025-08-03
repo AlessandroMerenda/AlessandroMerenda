@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alessandro 
+# 🤟 Hi, I'm Alessandro 
 
 Most data science ends with a notebook and some promising results. That's where I like to start.
 
@@ -22,7 +22,7 @@ The goal isn't to collect technologies for the sake of it, but to understand how
 
 ---
 
-## 🧰 What I work with
+##  What I work with
 
 **Core languages**: Python (daily), Java, Bash for automation  
 **Making things work in production**: Docker, GitHub Actions, Airflow, MLflow  
@@ -33,7 +33,7 @@ The goal isn't to collect technologies for the sake of it, but to understand how
 
 ---
 
-## 📈 How I think about learning
+##  How I think about learning
 
 I don't just want to learn the syntax — I want to understand **why things are built the way they are**.
 
