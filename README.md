@@ -1,4 +1,4 @@
-# 🤟 Hi, I'm Alessandro 
+# 🤟 Hello Dev, MerrisonFord here
 
 Most data science ends with a notebook and some promising results. That's where I like to start.
 
