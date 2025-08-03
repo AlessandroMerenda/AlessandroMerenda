@@ -1,73 +1,38 @@
-# 👋 Hello World, I'm Alessandro !
+# 👋 Hi, I'm Alessandro Merenda
 
-## 💡Something About Me...
-Passionate about data, with a keen interest in automation and system optimization, I'm currently on the path to becoming a Data Scientist.
-I thrive at the intersection of data analysis and engineering, where I can create intelligent and efficient solutions.
+I'm a Data Engineering and MLOps enthusiast currently growing through hands-on projects, training, and real-world simulation.  
+I'm studying **Automation & Systems Engineering** at the University of Padova and attending a technical program in **Advanced Data Analysis**.  
+Starting from July 2025, I will also be joining **BIT SpA** as a Junior Data Engineer.
 
+My work focuses on building scalable, production-ready data pipelines and ML workflows, with attention to automation, modularity, and reproducibility. I enjoy connecting tools like Docker, Airflow, FastAPI, and tracking systems to simulate end-to-end ML lifecycles.
 
-## 🔧 Skills & Tools
+Right now I’m working on:
 
-- **🖥️ Programming Languages**: 
-  - Python  --->  (data analysis & model building) 🐍
-  - SQL  --->  (databases querying & data wrangling) 🗃️
+- Designing and orchestrating ETL pipelines with Apache Airflow
+- Building containerized Python modules for image anomaly detection
+- Practicing full-stack MLOps: from data generation to inference and automation
+- Exploring modern GenAI techniques and prompting strategies
+- Developing my personal operating system project, **WOLLI**, focused on self-evolving AI components
 
-- **📊 Data Analysis & Visualization Tools**:
-  - Power BI  --->  (data storytelling & Visualization) 📈
-  - Google Analytics  --->  (web data) 🌐
-  - Excel  --->  (data manipulation) 📊
-  - Jupyter Notebook  --->  (data science projects & experiments) 📓
+---
 
-- **🛠️ Development Tools**:
-  - Visual Studio Code  --->  (my preferred IDE) 💻
-  - Git & GitHub  --->  (version control & collaboration) 🌳
+## 🧰 Tech Stack
 
-- **📚 Data Science Libraries**:
-  - pandas & NumPy  --->  (data manipulation & analysis) 🐼 ➗
-  - scikit-learn  --->  (machine learning models, like regression and clustering) 🤖
-  - matplotlib & seaborn  --->  (data visualization & graphs) 📊
+**Languages**: Python, Bash  
+**Dev/MLOps**: Docker, GitHub Actions, Airflow, CI/CD, ClearML, MLflow  
+**Data & ML**: pandas, NumPy, scikit-learn, PyTorch, OpenCV, TensorFlow  
+**Orchestration**: Apache Airflow, Azure Data Factory  
+**Cloud**: Azure (Blob, Data Factory), AWS (S3, EC2), GCP (basic)  
+**Databases**: PostgreSQL, MySQL, SQLite, Redis  
+**OS & Tools**: Linux (Ubuntu), macOS, ZSH, Cursor, VSCode  
 
-- **🤖 Machine Learning Techniques**:
-  - Experience with clustering (e.g., K-Means for segmentation), regression models, and basic classification tasks 📈
+---
 
-- **🗄️ Databases**:
-  - MySQL  --->  (RDBMS) 💾
+## 🌱 Learning Mindset
 
+I'm not just learning tools — I'm learning **how to think in systems**.  
+How to build, automate, test, and improve.  
+I believe in writing clean, modular code and in simulating real-world problems, not just toy examples.
 
-## ⚡ Personal Interests
-- Deeply fascinated by machine learning and its potential to solve complex, real-world challenges.
-- Intrigued by quantitative finance, I enjoy exploring data-driven approaches to optimize financial market strategies.
-
-  
- # 🌱 Currently Learning...
-
-### 1. 🧮 Mathematics, ⚛️ Physics, and 📉 Applied Statistics
-- **Mathematics for AI**: Strengthening calculus and linear algebra for machine learning.
-- **Probability and Statistics**: Building a strong foundation in statistical analysis.
-- **Physics for Automation**: Exploring mechanics, dynamics, and control theory as foundational knowledge for system modeling and optimization.
-
-### 2. 💻 Programming and 🧠 Problem Solving
-- **Advanced Python**: Enhancing Python skills, focusing on OOP, decorators, and code optimization.
-- **Algorithms and Data Structures**: Studying algorithms and data structures to improve problem-solving.
-- **Computer Architecture**: Understanding the fundamentals of computer organization, hardware, and system design.
-
-### 3. 🤖 Machine Learning and 📊 Data Science
-- **Unsupervised Learning**: Exploring clustering algorithms (e.g., K-Means, DBSCAN) for data segmentation.
-- **Supervised Learning**: Gaining experience with regression and classification models.
-- **Feature Engineering**: Improving skills in feature engineering to boost model performance.
-
-### 4. 📈 Financial Analysis and 💼 Modeling
-- **Quantitative Finance**: Learning risk modeling and data-driven portfolio strategies.
-- **Portfolio Optimization**: Studying advanced optimization techniques like Efficient Frontier and CAPM.
-
-### 5. ⚙️ Automation and 🛠️ Control Skills
-- **System Modeling and Simulation**: Learning to model and simulate systems using MATLAB and Simulink.
-- **Process Optimization**: Studying optimization techniques for automated systems.
-
-
-## 📫 Get in Touch!
-- **LinkedIn**: [linkedin.com/in/alessandro](www.linkedin.com/in/alessandro-merenda-499586332)
-- **Email**: [alessandro@email.com](alessandromerenda33@gmail.com)
-
-
-## ✨ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandroMerenda&show_icons=true&theme=radical)
+This GitHub profile will evolve as I complete more projects and grow as an engineer.  
+Thanks for visiting!
