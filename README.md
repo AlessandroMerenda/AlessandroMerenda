@@ -1,44 +1,66 @@
-# 🤟 Hello Dev, MerrisonFord here
+# 🤟 Hello Dev. MerrisonFord here.
 
-Most data science ends with a notebook and some promising results. That's where I like to start.
+Most data science projects die in a notebook with some promising plots and a vague sense of hope.  
+That's where I usually start.
 
-I'm drawn to the messier, more interesting questions that come after the initial "it works" moment: How do you turn this into something reliable? How do you deploy it without everything breaking? How do you make sure it keeps working when real users start hitting it with real data?
+I'm not interested in “it kinda works.” I care about what happens *after*:  
+- What does it take to make this thing reliable?  
+- How do you stop it from silently crashing at 3 AM?  
+- How do you deploy something without making your infra team hate you?
 
-This is where the **engineering mindset** becomes crucial. I approach ML projects like I'm building software that needs to last — with proper architecture, testing, monitoring, and documentation. Not because it's required, but because it's the difference between a cool demo and something that actually creates value.
+This is where engineering begins. I build ML systems like software: with versioning, tests, monitoring, and docs written clearly enough that future-me won’t quit on the spot. Not because it’s trendy. Because it’s the difference between a cool demo and something that survives in production.
 
-The tools and technologies are constantly evolving, but the fundamentals of good engineering remain the same: write clean code, plan for failure, automate what you can, and always think about the person who has to maintain this six months from now.
-
-## What I'm building right now:
-
-**Production-grade anomaly detection system** — taking a computer vision model from "works in the lab" to something you could actually deploy with proper monitoring, health checks, and failure handling.
-
-**End-to-end ML pipelines** — because manually running scripts every time new data arrives isn't sustainable. Working with Airflow to orchestrate everything from data ingestion to model retraining.
-
-**WOLLI** — my attempt at building a personal AI system that can evolve its own components. It's ambitious, probably overly complex, but it's teaching me a lot about modular architecture and how AI systems should actually be designed.
-
-**Real MLOps workflows** — not just training models, but figuring out how to version them, test them, deploy them, and know when they're starting to fail in production.
-
-The goal isn't to collect technologies for the sake of it, but to understand how they fit together to solve actual problems.
+I don’t collect technologies like Pokémon. I figure out how they fit together so I can sleep at night.
 
 ---
 
-##  What I work with
+##  What I’m building
 
-**Core languages**: Python (daily), Java, Bash for automation  
-**Making things work in production**: Docker, GitHub Actions, Airflow, MLflow  
-**Data wrangling & ML**: pandas, NumPy, scikit-learn, PyTorch, OpenCV  
-**Cloud platforms**: Azure, AWS, GCP (still learning the differences)  
-**Databases**: PostgreSQL, MySQL, Redis when caching matters  
-**Environment**: Linux, macOS, terminal-heavy workflow  
+**Production-grade anomaly detection**  
+Taking a computer vision model from "lab toy" to "you can deploy this without summoning SREs through a ritual circle". Monitoring, health checks, logging, the works.
+
+**End-to-end ML pipelines**  
+Manually rerunning scripts is for masochists. I use Airflow to automate everything: ingestion, training, deployment. I like to sleep. Pipelines help.
+
+**WOLLI**  
+A personal AI system that refuses to stay simple. Modular, evolving, occasionally unhinged. It reviews its own code (mostly). It reflects my need to build AI tools that don’t suck—and that challenge me in return.
+
+**Real MLOps**  
+Versioning models. Testing them like software. Knowing when something’s degrading *before* a user finds out. You know—real stuff.
 
 ---
 
-##  How I think about learning
+## � What I actually use
 
-I don't just want to learn the syntax — I want to understand **why things are built the way they are**.
+**Languages**: Python (daily driver), Java (when forced), Bash (because it's sorcery)  
+**Infra & workflow**: Docker, GitHub Actions, Airflow, MLflow  
+**ML & data**: pandas, NumPy, scikit-learn, PyTorch, OpenCV  
+**Cloud**: AWS, Azure, GCP (they all do the same thing badly in different ways)  
+**Databases**: PostgreSQL, MySQL, Redis (fast and angry)  
+**Environment**: Linux, macOS, terminal-heavy (if it has a GUI, I don’t trust it)
 
-Why does everyone use Docker? What problems does it actually solve? When does Apache Airflow make sense versus just running cron jobs? How do you know if your ML system is actually working in production?
+---
 
-These are the questions that drive me to build things from scratch, break them, and rebuild them better.
+##  How I learn
 
-This profile is a work in progress, just like my understanding of how to build systems that don't just work, but work reliably.
+I don’t just learn tools. I learn **why they were built**, and **what pain they were trying to solve**.  
+I want to understand:
+- Why Docker became mandatory (beyond “it works on my machine”)  
+- When Airflow makes sense and when a cron job is just fine  
+- How to tell if a model is actually doing its job—or just failing creatively in silence
+
+If I break something, I break it hard.  
+Then I fix it properly.
+
+---
+
+## TL;DR
+
+- Build ML systems that *actually* work in production  
+- Automate pipelines so I don’t lose sleep  
+- Architect code like someone will have to maintain it (because they will—it’s me)  
+- Design WOLLI, my AI sidekick with commitment issues and strong opinions
+
+---
+
+*Open to opportunities where breaking things is part of the job.*  
