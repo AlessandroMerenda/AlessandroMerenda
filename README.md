@@ -1,4 +1,4 @@
-# 🤟 Hello Dev. MerrisonFord here.
+#  Hello Dev. MerrisonFord here.
 
 Most data science projects die in a notebook with some promising plots and a vague sense of hope.  
 That's where I usually start.
