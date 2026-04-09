@@ -30,6 +30,4 @@ Provisioning cloud-native environments via Infrastructure as Code and establishi
 
 ---
 
-## Medallion pattern
 
-`Bronze` → raw &nbsp;&nbsp; `Silver` → refined &nbsp;&nbsp; `Gold` → trusted
