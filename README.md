@@ -1,13 +1,38 @@
-# ⚡ High-Performance Data Ecosystems & Distributed Systems
+╔═══════════════════════════════════════════════╗
+║   DATA ARCHITECT  ·  LAKEHOUSE  ·  CLOUD      ║
+╚═══════════════════════════════════════════════╝
 
-```ascii
-  __
- /  \      Lakehouse Paradigm | Medallion Architecture
-|    |     Resilient Data Engineering at Enterprise Scale
- \__/      Multi-Terabyte Pipeline Optimization
-I design and engineer data ecosystems that remain stable and predictable under extreme volumes. My focus lies at the intersection of Distributed Systems, Cloud-Native Architecture, and Enterprise Governance.🏗️ Core Pillars of ExcellencePillarFocus AreaDistributed ArchitectureDriver-executor models, shuffle management, and execution plan optimization for millions of records per partition.Performance EngineeringLow-level tuning for high-efficiency joins, aggregations, and resource allocation.Governance & SecurityMetadata management, lineage, IAM, and specialist-level PII protection/encryption.Infrastructure & IaCCloud-native provisioning with automated CI/CD workflows for secure, repeatable production deployments.🛠️ Technical SpecializationPlaintext  [ Compute ] ─────────── [ Storage ] ─────────── [ Governance ]
-       │                      │                        │
-  Spark/Databricks       Delta Lake / Iceberg       Unity Catalog
-  Partitioning Opt.      Medallion (B/S/G)          Lineage & IAM
-  Shuffle Tuning         Parquet / Avro             PII Masking
-Paradigms: Lakehouse, Medallion Design Patterns, Lambda/Kappa Architectures.Infrastructure: Infrastructure as Code (Terraform/Pulumi), Cloud-Native Scalability.Security: End-to-end encryption, Secure Data Exchange, Identity Management.📈 Philosophy"Stability is not the absence of complexity, but the mastery of it through predictable engineering and rigorous automation."
+> Designing **high-performance, resilient data ecosystems** for enterprise-scale workloads.
+> Focused on the **Lakehouse paradigm** and **Medallion design patterns**, engineering pipelines that remain stable and predictable under multi-terabyte volumes.
+
+---
+
+## ◆ Core Pillars
+┌─[ 01 ]──────────────────────────────────────────┐
+│  DISTRIBUTED ARCHITECTURE                       │
+└─────────────────────────────────────────────────┘
+Designing compute environments around the **driver–executor model** to process massive datasets. Expert in **partitioning**, **shuffle management**, and **execution plan optimization** — handling millions of records per partition without breaking a sweat.
+┌─[ 02 ]──────────────────────────────────────────┐
+│  PERFORMANCE ENGINEERING                        │
+└─────────────────────────────────────────────────┘
+Tuning low-level processing to guarantee efficiency in **complex joins** and **heavy aggregations**. Every millisecond counts.
+┌─[ 03 ]──────────────────────────────────────────┐
+│  GOVERNANCE & SECURITY                          │
+└─────────────────────────────────────────────────┘
+Implementing enterprise-grade **metadata management**, **lineage tracking**, and **IAM**. Specialist in **PII protection**, **encryption**, and **secure data exchange protocols**.
+┌─[ 04 ]──────────────────────────────────────────┐
+│  INFRASTRUCTURE & AUTOMATION                    │
+└─────────────────────────────────────────────────┘
+Provisioning cloud-native environments via **Infrastructure as Code (IaC)** and establishing **CI/CD workflows** for repeatable, secure production deployments.
+
+---
+
+## ◆ Specialization
+▸ Distributed Systems Design
+▸ Cloud-Native Architecture
+
+---
+    ┌────────────────────────────────┐
+    │  bronze → silver → gold        │
+    │  raw   →  refined  → trusted   │
+    └────────────────────────────────┘
